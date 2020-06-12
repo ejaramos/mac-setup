@@ -32,3 +32,8 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 
 ```
 
+# Apps to install (some through steps above)
+* Sublime Text
+* BetterTouchTool
+* iterm2
+
