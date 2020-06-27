@@ -28,6 +28,7 @@ brew install zsh-syntax-highlighting
 
 
 # install oh-my-zsh
+# https://github.com/ohmyzsh/ohmyzsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
 # install oh-my-zsh theme: powerline10k (faster powerline9k which has great customizability)
