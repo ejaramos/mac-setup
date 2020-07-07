@@ -6,7 +6,7 @@
 * Terminal setup (Clovis) https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961
 
 # Steps
-## Some steps... (wip)
+## Some steps...
 ```
 # install brew
 https://brew.sh/
@@ -23,6 +23,7 @@ chsh -s $(which zsh)
 brew cask install iterm2
 
 # iterm setup
+# DO NOT FOLLOW ALL STEPS- just iterm steps
 # https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961
 
 # install zsh
