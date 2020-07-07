@@ -8,8 +8,11 @@
 # Steps
 ## Some steps... (wip)
 ```
-# Install BetterTouchTool
 # install brew
+https://brew.sh/
+
+# install BetterTouchTool
+brew cask install bettertouchtool
 
 # install Sublime
 brew cask install sublime-text
