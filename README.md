@@ -41,7 +41,9 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
 echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>! ~/.zshrc
 
 # install alfred (spotlight search)
-brew cask install alfred
+brew cask install alfred anaconda
+
+# NOTE: May need to add Anaconda to path post installation ```export PATH="/usr/local/anaconda3/bin:$PATH"```
 
 ```
 
