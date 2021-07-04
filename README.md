@@ -50,6 +50,7 @@ brew cask install alfred anaconda
 # Apps to install (some through steps above)
 * Sublime Text
   * https://packagecontrol.io/packages/Theme%20-%20Gravity
+  * Layout
 * BetterTouchTool
 * iterm2
 
